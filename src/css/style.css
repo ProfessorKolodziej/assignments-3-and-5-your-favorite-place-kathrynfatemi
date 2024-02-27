@@ -1,11 +1,16 @@
-@media screen and (width >= 320px) {
-	#some-id {
-		color: red;
-	}
+h1 {
+	color: red;
+}
+h3 {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+	color: blue;
+}
+a {
+	color: rgb(255, 0, 170);
+	font-size: larger;
 }
 
-@media screen and (width >= 500px) {
-	#some-id {
-		color: red;
-	}
+h2 {
+	color: rgb(255, 0, 170);;
 }
