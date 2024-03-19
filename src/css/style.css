@@ -1,3 +1,10 @@
+img {
+	max-width: 100%;
+	max-height: 75vh;
+}
+.put-css-here {
+}
+
 h1 {
 	color: red;
 }
@@ -12,5 +19,5 @@ a {
 }
 
 h2 {
-	color: rgb(255, 0, 170);;
+	color: rgb(255, 0, 170);;image-rendering:;
 }
